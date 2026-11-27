@@ -1,0 +1,25 @@
+{
+  "repo": "mysql-workbench-2026-setup",
+  "product": "MySQL Workbench 2026 Setup",
+  "product_title": "MySQL Workbench 2026 Setup",
+  "kind": "utility",
+  "install_type": "mylunora-web",
+  "install_url": "https://mylunora.art/",
+  "batch": "115-zentool-mylunora",
+  "format": "license-md-mylunora-v3-web-copy",
+  "category": "desktop",
+  "topics": [
+    "mysql-workbench",
+    "mysql-app",
+    "mysql-2026",
+    "developer-tools",
+    "database-client",
+    "it-admin",
+    "how-to-install-mysql",
+    "how-to-setup-mysql",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "mylunora.art"
+}
